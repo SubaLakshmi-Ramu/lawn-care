@@ -20,6 +20,7 @@ section{
 }
 .head-icons i{
     padding-top: 15px;
+
     color: #4d4d4d;
     font-size: 20px;
 }
@@ -110,7 +111,8 @@ button .search-icon{
 /* home */
 
 .banner{
-    background-image: url(../image/lawncare.webp);
+
+    background-image: url(./lawncare.webp);
     height: 800px;
     width: 100%;
     background-repeat: no-repeat;
@@ -290,7 +292,7 @@ button .search-icon{
 /*    about st    */
 
 .img{
-    background-image: url(../image/about.jpg.webp);
+    background-image: url(./about.jpg.webp);
     height: 950px;
     width: 554px;
     background-size: cover;
